@@ -2,6 +2,10 @@
 
 Zde najdete v nejbližších dnech veškerá potřebná data a posléze i prezentace a záznam z workshopu.
 
+KRAJE: https://raw.githubusercontent.com/masopust/powerbi_workshop/main/kraje.json
+
+ORP: https://raw.githubusercontent.com/masopust/powerbi_workshop/main/orp.json
+
  powerbi1@ceskemapy.cz Workshop1
  pk.eyJ1IjoiamFubWFzb3B1c3QiLCJhIjoiY2tpaGdtMjNyMXg0cTJ5cGV3bTgyNTc4YiJ9.2MessFgcjG50ZOoDMp9_HQ
  
