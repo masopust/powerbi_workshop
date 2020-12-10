@@ -16,7 +16,7 @@ Co budete pro účast na workshopu potřebovat:
 - nainstalovat si dopředu software [Power BI Desktop](https://www.microsoft.com/cs-CZ/download/details.aspx?id=58494). Program je k dispozici v plné verzi zdarma.
 - pro druhou část workshopu budete potřebovat Microsoft účet na vašem pracovním e-mailu. Jestli vše funguje ověříte tak, že se přihlásíte do https://app.powerbi.com/ Pokud takový účet nemáte, je připraveno několik volných účtů pro účastníky.
 - pro tvorbu pokročilých map se bude hodit mít vytvořený účet i na [MapBoxu](https://account.mapbox.com/auth/signup)
-- stáhnout si datové soubory, které budeme zpracovávat. Soubory jsou zveřejněny v tomto repozitáři.
+- stáhnout si datové soubory, které budeme zpracovávat. Soubory jsou zveřejněny v tomto repozitáři ([ke stažení zde](https://github.com/masopust/powerbi_workshop/raw/main/data.zip)).
 
 ## Data, účty & tokeny
 | Soubor         |  Link |
