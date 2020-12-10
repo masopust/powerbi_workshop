@@ -32,6 +32,8 @@ Co budete pro účast na workshopu potřebovat:
 | powerbi3@ceskemapy.cz | Workshop3 | pk.eyJ1IjoiamFubWFzb3B1c3QiLCJhIjoiY2tpaGdwemZ1MGRybTJ2b2dzMHUxNjF0YiJ9.IGH0cIeTwTvEeTWKL_yQyA |
 | powerbi4@ceskemapy.cz | Workshop4 | pk.eyJ1IjoiamFubWFzb3B1c3QiLCJhIjoiY2tpaGdxOGp2MGhqZTJ2bzM4N3Q0aGl5MSJ9.L_btxLprkQNuZDSMgQU-OA |
 | powerbi5@ceskemapy.cz | Workshop5 | pk.eyJ1IjoiamFubWFzb3B1c3QiLCJhIjoiY2tpaGdxZWw4MDdobjJybXcyZnBmbnVzZCJ9.4a7mIEUrdppKUeSgo3qAvQ |
+| powerbi6@ceskemapy.cz | Workshop6 | pk.eyJ1IjoiamFubWFzb3B1c3QiLCJhIjoiY2tpaXF3dmV2MGtpazJ6bWxndnRwbjNkZSJ9.56dknAI7hwCA6YKALRIA-w |
+| powerbi7@ceskemapy.cz | Workshop7 | pk.eyJ1IjoiamFubWFzb3B1c3QiLCJhIjoiY2tpaXF4ejV2MGtuZDJzbWwxam50bzY1OCJ9.XlynPIgG6NxqEHPuHYU-bg |
 
 
 Workshop se uskuteční díky podpoře z projektu Erasmus+ Programme, Jean Monnet Module (Project No. 620791-EPP-1-2020-1-CZ-EPPJMO-MODULE, UrbanDM- Data mining and analyzing of urban structures as contribution to European Union studies).
