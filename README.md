@@ -16,9 +16,10 @@ Co budete pro účast na workshopu potřebovat:
 
 ## Záznam z workshopu
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=eH2AJqv7Y2g
-" target="_blank"><img src="http://img.youtube.com/vi/eH2AJqv7Y2g/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+- [Video-záznam](https://youtu.be/eH2AJqv7Y2g?t=35)
+- [Prezentace](https://github.com/masopust/powerbi_workshop/blob/main/prezentace.pdf)
+- [Výsledná sestava ke stažení](https://github.com/masopust/powerbi_workshop/raw/main/sestava.pbix)
+- [Výsledná sestava online](https://app.powerbi.com/view?r=eyJrIjoiOTI1ODk1YjktYWM2MC00ZDliLTgwOTMtYTI3MjI5Nzk2OGY4IiwidCI6IjBiYzJmMjBlLTAyZmYtNGI2My1hMDRhLTVmYjU4MDQzZGU4OSIsImMiOjh9&pageName=ReportSection)
 
 ## Data pro Drilldown mapy
 | Soubor         |  Link |
