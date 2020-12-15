@@ -14,6 +14,12 @@ Co budete pro účast na workshopu potřebovat:
 - pro tvorbu pokročilých map se bude hodit mít vytvořený účet i na [MapBoxu](https://account.mapbox.com/auth/signup)
 - stáhnout si datové soubory, které budeme zpracovávat. Soubory jsou zveřejněny v tomto repozitáři ([ke stažení zde](https://github.com/masopust/powerbi_workshop/raw/main/data.zip)).
 
+## Záznam z workshopu
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eH2AJqv7Y2g
+" target="_blank"><img src="http://img.youtube.com/vi/eH2AJqv7Y2g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
 ## Data pro Drilldown mapy
 | Soubor         |  Link |
 | ------------- | -----|
