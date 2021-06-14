@@ -1,6 +1,11 @@
 # Mapy, analýzy a vizualizace prostorových dat v BI
 na příkladu prostorových dat poskytovaných Evropskou unií
 ------
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4942321.svg)](https://doi.org/10.5281/zenodo.4942321)
+
+
 Workshop proběhl online 10. 12. 2020 na [Katedře geoinformatiky UPOL](http://www.geoinformatics.upol.cz) a byl zaměřený na tvorbu BI dashboardů s využitím dat EU a map.  S pomocí ukázkových dat si celé zpracování vyzkoušíte sami udělat na svém počítači. 
 
 Obsah:
